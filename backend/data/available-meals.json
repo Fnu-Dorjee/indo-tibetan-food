@@ -1,0 +1,91 @@
+
+[
+  {
+    "id": "m1",
+    "name": "chow mein",
+    "price": "8.99",
+    "description": "Stir-fried noodles in Chinese, is a dish of stir-fried wheat noodles, often served with proteins, vegetables, and a savory sauce.",
+    "image": "images/chow-min.jpg"
+  },
+
+  {
+    "id": "m3",
+    "name": "Momo",
+    "price": "7.99",
+    "description": "Steamed, filled dumplings popular in Tibetan and Nepali cuisine, often served with a spicy sauce called achar, and can also be found in soup or fried versions. ",
+    "image": "images/momo.jpg"
+  },
+
+  {
+    "id": "m5",
+    "name": "Paratha",
+    "price": "5.99",
+    "description": "Paratha is a popular unleavened, flatbread originating from the Indian subcontinent, typically made from whole wheat flour.",
+    "image": "images/paranta.jpg"
+  },
+
+  {
+    "id": "m7",
+    "name": "Mutton Rice",
+    "price": "17.99",
+    "description": "Mutton rice, also known as mutton pulao or lamb pulao, is a flavorful rice dish featuring tender mutton cooked with aromatic spices and fragrant basmati rice.",
+    "image": "images/muttonRice.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "French Fries",
+    "price": "4.99",
+    "description": "French fries are a popular snack or side dish made from deep-fried, batonnet or julienne-cut potatoes, typically seasoned with salt and served hot.",
+    "image": "images/frenchFries.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Mutton Curry",
+    "price": "13.99",
+    "description": "Tender pieces of mutton simmered in a rich and aromatic curry sauce, served with basmati rice.",
+    "image": "images/muttonCuryy.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Thali",
+    "price": "9.99",
+    "description": "Indian meal consisting of a variety of small dishes served on a large, circular plate, offering a diverse range of flavors and textures.",
+    "image": "images/thali.jpg"
+  },
+  
+  {
+    "id": "m16",
+    "name": "chicken Tandoori",
+    "price": "7.99",
+    "description": "Tandoori chicken is a popular Indian dish featuring chicken marinated in yogurt and spices, then roasted in a tandoor (a cylindrical clay oven) for a smoky, tender, and flavorful result.",
+    "image": "images/chickenTharka.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Chicken Briyani",
+    "price": "13.99",
+    "description": "Chicken biryani is a flavorful, fragrant rice dish originating from the Indian subcontinent, featuring layers of spiced, tender chicken and fluffy basmati rice, often garnished with fried onions and herbs.",
+    "image": "images/briyani.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Chicken Lollipop",
+    "price": "11.99",
+    "description": "A frenched chicken drumette is marinated and then batter fried or baked until crisp.",
+    "image": "images/chickenLolipop.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Rajma Masala",
+    "price": "6.99",
+    "description": "Rajma Masala- kidney beans curry with onion, tomatoes and spices.",
+    "image": "images/rajma.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Alu Puri",
+    "price": "5.99",
+    "description": "Deep-fried Indian bread made with boiled potatoes, flour, and spices.",
+    "image": "images/puriAlu.jpg"
+  }
+]
