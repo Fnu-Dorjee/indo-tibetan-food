@@ -35,7 +35,7 @@ export default function UserProgConxtProvider({children}){
         showCart,
         hideCart,
         showCheckOut,
-        hideCheckOut
+        hideCheckOut,
     }
 
     return (
